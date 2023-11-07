@@ -1,0 +1,25 @@
+ManagerID,Name,Squad,Country,WasSacked
+1,Mikel Arteta, Arsenal, Spain,NO
+2,Dean Smith,Aston Villa,England,NO
+3,Graham Potter,Brighton and Hove Albion,England,NO
+4,Sean Dyche,Burnley,England,NO
+5,Thomas Tuchel,Chelsea,Germany,NO
+6,Frank Lampard,Chelsea,England,YES
+7,Roy Hodgson,Crystal Palace,England,NO
+8,Carlo Ancelotti,Everton,Italy,NO
+9,Scott Parker,Fulham,England,NO
+10,Marcelo Bielsa,Leeds United,Argentina,NO
+11,Brendan Rodgers,Leicester City,Northern Ireland,NO
+12,Jürgen Klopp,Liverpool,Germany,NO
+13,Josep Guardiola,Manchester City,Spain,NO
+14,Ole Gunnar Solskjær,Manchester United,Norway,NO
+15,Steve Bruce,Newcastle United,England,NO
+16,Paul Heckingbottom,Sheffield United,England,NO
+17,Chris Wilder,Sheffield United,England,YES
+18,Ralph Hasenhüttl,Southampton,Austria,NO
+19,Ryan Mason,Tottenham Hotspur,England,NO
+20,José Mourinho,Tottenham Hotspur,Portugal,YES
+21,Sam Allardyce,West Bromwich Albion,England,NO
+22,Slaven Bilic,West Bromwich Albion,Croatia,YES
+23,David Moyes,West Ham United,Scotland, NO
+24,Nuno Espírito Santo,Wolverhampton Wanderers,Portugal, NO

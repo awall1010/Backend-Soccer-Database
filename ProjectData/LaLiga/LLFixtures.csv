@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee
+1,Sat,2020-09-12,16:00 (07:00),Eibar,0.4,0–0,0.9,Celta Vigo,0,Estadio Municipal de Ipurúa,Valentín Pizarro
+1,Sat,2020-09-12,18:30 (09:30),Granada,0.3,2–0,0.9,Athletic Club,0,Estadio Nuevo Los Cármenes,Antonio Matéu Lahoz
+1,Sat,2020-09-12,21:00 (12:00),Cádiz,1.1,0–2,0.9,Osasuna,0,Estadio Nuevo Mirandilla,Isidro Díaz de Mera
+1,Sun,2020-09-13,14:00 (05:00),Alavés,1.0,0–1,0.6,Betis,0,Estadio de Mendizorroza,Pablo González
+1,Sun,2020-09-13,16:00 (07:00),Valladolid,0.6,1–1,0.2,Real Sociedad,0,Estadio Municipal José Zorrilla,Mario Melero
+1,Sun,2020-09-13,18:30 (09:30),Villarreal,2.1,1–1,0.5,Huesca,0,Estadio de la Cerámica,Javier Estrada
+1,Sun,2020-09-13,21:00 (12:00),Valencia,1.8,4–2,2.0,Levante,0,Estadio de Mestalla,José Sánchez
+2,Sat,2020-09-19,16:00 (07:00),Villarreal,2.2,2–1,1.1,Eibar,0,Estadio de la Cerámica,Jorge Figueroa
+2,Sat,2020-09-19,18:30 (09:30),Getafe,0.4,1–0,0.4,Osasuna,0,Coliseum Alfonso Pérez,Alejandro Hernández
+2,Sat,2020-09-19,21:00 (12:00),Celta Vigo,2.3,2–1,0.5,Valencia,0,Estadio de Balaídos,Jesús Gil
+2,Sun,2020-09-20,16:00 (07:00),Huesca,0.2,0–2,1.3,Cádiz,0,Estadio El Alcoraz,César Soto
+2,Sun,2020-09-20,18:30 (09:30),Granada,2.0,2–1,0.6,Alavés,0,Estadio Nuevo Los Cármenes,Carlos del Cerro
+2,Sun,2020-09-20,18:30 (09:30),Betis,1.4,2–0,0.5,Valladolid,0,Estadio Benito Villamarín,Santiago Jaime
+2,Sun,2020-09-20,21:00 (12:00),Real Sociedad,0.5,0–0,0.8,Real Madrid,0,Estadio Municipal de Anoeta,Juan Martínez
+3,Sat,2020-09-26,13:00 (04:00),Alavés,1.4,0–0,0.8,Getafe,0,Estadio de Mendizorroza,Alberola Rojas
+3,Sat,2020-09-26,16:00 (07:00),Valencia,0.2,1–1,1.5,Huesca,0,Estadio de Mestalla,José Luis Munuera
+3,Sat,2020-09-26,18:30 (09:30),Elche,1.3,0–3,3.0,Real Sociedad,0,Estadio Manuel Martínez Valero,Isidro Díaz de Mera
+3,Sat,2020-09-26,21:00 (12:00),Betis,1.1,2–3,3.6,Real Madrid,0,Estadio Benito Villamarín,Ricardo de Burgos
+3,Sun,2020-09-27,12:00 (03:00),Osasuna,0.6,1–3,2.8,Levante,0,Estadio El Sadar,Mario Melero
+3,Sun,2020-09-27,14:00 (05:00),Eibar,0.5,1–2,0.7,Athletic Club,0,Estadio Municipal de Ipurúa,Adrián Cordero
+3,Sun,2020-09-27,16:00 (07:00),Atlético Madrid,3.1,6–1,0.9,Granada,0,Estadio Wanda Metropolitano,Javier Estrada
+3,Sun,2020-09-27,18:30 (09:30),Cádiz,1.1,1–3,2.7,Sevilla,0,Estadio Nuevo Mirandilla,David Medié
+3,Sun,2020-09-27,18:30 (09:30),Valladolid,1.5,1–1,1.2,Celta Vigo,0,Estadio Municipal José Zorrilla,José Sánchez
+3,Sun,2020-09-27,21:00 (12:00),Barcelona,2.6,4–0,0.2,Villarreal,0,Camp Nou,Guillermo Cuadra
+4,Tue,2020-09-29,19:00 (10:00),Real Sociedad,0.7,0–1,1.0,Valencia,0,Estadio Municipal de Anoeta,Jorge Figueroa
+4,Tue,2020-09-29,21:30 (12:30),Getafe,0.7,3–0,0.5,Betis,0,Coliseum Alfonso Pérez,Juan Martínez
+4,Wed,2020-09-30,19:00 (10:00),Villarreal,2.3,3–1,1.5,Alavés,0,Estadio de la Cerámica,David Medié
+4,Wed,2020-09-30,19:00 (10:00),Huesca,0.7,0–0,1.3,Atlético Madrid,0,Estadio El Alcoraz,Adrián Cordero
+4,Wed,2020-09-30,21:30 (12:30),Eibar,1.1,0–1,0.7,Elche,0,Estadio Municipal de Ipurúa,Santiago Jaime
+4,Wed,2020-09-30,21:30 (12:30),Real Madrid,2.2,1–0,0.6,Valladolid,0,Estadio Alfredo Di Stéfano,César Soto
+4,Thu,2020-10-01,19:00 (10:00),Sevilla,1.0,1–0,0.3,Levante,0,Estadio Ramón Sánchez Pizjuán,Javier Estrada
+4,Thu,2020-10-01,19:00 (10:00),Athletic Club,0.6,0–1,0.2,Cádiz,0,San Mamés,Pablo González
+4,Thu,2020-10-01,21:30 (12:30),Celta Vigo,0.5,0–3,0.7,Barcelona,0,Estadio de Balaídos,Carlos del Cerro
+5,Sat,2020-10-03,13:00 (04:00),Valladolid,1.2,1–2,1.3,Eibar,0,Estadio Municipal José Zorrilla,Isidro Díaz de Mera
+5,Sat,2020-10-03,16:00 (07:00),Atlético Madrid,0.6,0–0,0.3,Villarreal,0,Estadio Wanda Metropolitano,Alejandro Hernández
+5,Sat,2020-10-03,18:30 (09:30),Elche,0.3,0–0,2.1,Huesca,0,Estadio Manuel Martínez Valero,Mario Melero
+5,Sat,2020-10-03,18:30 (09:30),Real Sociedad,2.6,3–0,0.4,Getafe,0,Estadio Municipal de Anoeta,Antonio Matéu Lahoz
+5,Sat,2020-10-03,21:00 (12:00),Valencia,0.3,0–2,1.9,Betis,0,Estadio de Mestalla,Guillermo Cuadra
+5,Sun,2020-10-04,12:00 (03:00),Osasuna,1.1,2–0,0.7,Celta Vigo,0,Estadio El Sadar,Ricardo de Burgos
+5,Sun,2020-10-04,14:00 (05:00),Alavés,0.6,1–0,0.6,Athletic Club,0,Estadio de Mendizorroza,José Sánchez
+5,Sun,2020-10-04,16:00 (07:00),Levante,0.9,0–2,1.6,Real Madrid,0,Estadio Ciudad de Valencia,José Luis Munuera
+5,Sun,2020-10-04,18:30 (09:30),Cádiz,1.1,1–1,0.7,Granada,0,Estadio Nuevo Mirandilla,Alberola Rojas
+5,Sun,2020-10-04,21:00 (12:00),Barcelona,1.8,1–1,0.7,Sevilla,0,Camp Nou,Jesús Gil
+6,Sat,2020-10-17,13:00 (04:00),Granada,1.3,1–0,0.4,Sevilla,0,Estadio Nuevo Los Cármenes,Pablo González
+6,Sat,2020-10-17,16:00 (07:00),Celta Vigo,1.5,0–2,1.1,Atlético Madrid,0,Estadio de Balaídos,Juan Martínez
+6,Sat,2020-10-17,18:30 (09:30),Real Madrid,0.8,0–1,1.6,Cádiz,0,Estadio Alfredo Di Stéfano,Santiago Jaime
+6,Sat,2020-10-17,21:00 (12:00),Getafe,1.7,1–0,0.9,Barcelona,0,Coliseum Alfonso Pérez,César Soto
+6,Sun,2020-10-18,12:00 (03:00),Eibar,0.3,0–0,0.6,Osasuna,0,Estadio Municipal de Ipurúa,David Medié
+6,Sun,2020-10-18,14:00 (05:00),Athletic Club,2.4,2–0,0.4,Levante,0,San Mamés,Alberola Rojas
+6,Sun,2020-10-18,16:00 (07:00),Villarreal,1.7,2–1,0.6,Valencia,0,Estadio de la Cerámica,Carlos del Cerro
+6,Sun,2020-10-18,18:30 (09:30),Alavés,1.2,0–2,1.2,Elche,0,Estadio de Mendizorroza,Adrián Cordero
+6,Sun,2020-10-18,18:30 (09:30),Huesca,1.0,2–2,1.0,Valladolid,0,Estadio El Alcoraz,Jorge Figueroa
+6,Sun,2020-10-18,21:00 (12:00),Betis,0.4,0–3,1.6,Real Sociedad,0,Estadio Benito Villamarín,Javier Estrada
+7,Fri,2020-10-23,21:00 (12:00),Elche,0.1,2–1,1.7,Valencia,0,Estadio Manuel Martínez Valero,César Soto
+7,Sat,2020-10-24,16:00 (07:00),Barcelona,1.1,1–3,3.3,Real Madrid,0,Camp Nou,Juan Martínez
+7,Sat,2020-10-24,18:30 (09:30),Sevilla,1.7,0–1,0.4,Eibar,0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+7,Sat,2020-10-24,18:30 (09:30),Osasuna,1.0,1–0,0.8,Athletic Club,0,Estadio El Sadar,Guillermo Cuadra
+7,Sat,2020-10-24,21:00 (12:00),Atlético Madrid,1.6,2–0,0.8,Betis,0,Estadio Wanda Metropolitano,Antonio Matéu Lahoz
+7,Sun,2020-10-25,14:00 (06:00),Valladolid,0.4,0–2,2.6,Alavés,0,Estadio Municipal José Zorrilla,José Luis Munuera
+7,Sun,2020-10-25,16:00 (08:00),Cádiz,0.2,0–0,0.6,Villarreal,0,Estadio Nuevo Mirandilla,Ricardo de Burgos
+7,Sun,2020-10-25,18:30 (10:30),Getafe,0.8,0–1,1.2,Granada,0,Coliseum Alfonso Pérez,Jesús Gil
+7,Sun,2020-10-25,21:00 (13:00),Real Sociedad,1.9,4–1,0.5,Huesca,0,Estadio Municipal de Anoeta,Isidro Díaz de Mera
+7,Mon,2020-10-26,21:00 (13:00),Levante,1.2,1–1,0.9,Celta Vigo,0,Estadio Ciudad de Valencia,Mario Melero
+8,Fri,2020-10-30,21:00 (13:00),Eibar,0.5,0–2,0.8,Cádiz,0,Estadio Municipal de Ipurúa,Antonio Matéu Lahoz
+8,Sat,2020-10-31,14:00 (06:00),Real Madrid,1.5,4–1,1.1,Huesca,0,Estadio Alfredo Di Stéfano,Pablo González
+8,Sat,2020-10-31,16:15 (08:15),Athletic Club,1.2,2–1,0.7,Sevilla,0,San Mamés,Carlos del Cerro
+8,Sat,2020-10-31,18:30 (10:30),Osasuna,0.8,1–3,2.9,Atlético Madrid,0,Estadio El Sadar,Javier Estrada
+8,Sat,2020-10-31,21:00 (13:00),Alavés,1.1,1–1,2.3,Barcelona,0,Estadio de Mendizorroza,Alejandro Hernández
+8,Sun,2020-11-01,14:00 (05:00),Betis,3.1,3–1,0.5,Elche,0,Estadio Benito Villamarín,David Medié
+8,Sun,2020-11-01,16:00 (07:00),Celta Vigo,1.4,1–4,3.4,Real Sociedad,0,Estadio de Balaídos,Adrián Cordero
+8,Sun,2020-11-01,18:30 (09:30),Granada,0.6,1–1,1.0,Levante,0,Estadio Nuevo Los Cármenes,Santiago Jaime
+8,Sun,2020-11-01,21:00 (12:00),Valencia,1.4,2–2,2.1,Getafe,0,Estadio de Mestalla,Jorge Figueroa
+8,Mon,2020-11-02,21:00 (12:00),Villarreal,2.0,2–0,1.0,Valladolid,0,Estadio de la Cerámica,Alberola Rojas
+9,Fri,2020-11-06,21:00 (12:00),Elche,1.4,1–1,2.1,Celta Vigo,0,Estadio Manuel Martínez Valero,Ricardo de Burgos
+9,Sat,2020-11-07,14:00 (05:00),Huesca,1.6,1–1,0.8,Eibar,0,Estadio El Alcoraz,Mario Melero
+9,Sat,2020-11-07,16:15 (07:15),Barcelona,4.4,5–2,1.2,Betis,0,Camp Nou,Guillermo Cuadra
+9,Sat,2020-11-07,18:30 (09:30),Sevilla,1.3,1–0,0.5,Osasuna,0,Estadio Ramón Sánchez Pizjuán,Juan Martínez
+9,Sat,2020-11-07,21:00 (12:00),Atlético Madrid,1.9,4–0,0.4,Cádiz,0,Estadio Wanda Metropolitano,Adrián Cordero
+9,Sun,2020-11-08,14:00 (05:00),Getafe,0.7,1–3,2.0,Villarreal,0,Coliseum Alfonso Pérez,José Luis Munuera
+9,Sun,2020-11-08,16:15 (07:15),Real Sociedad,2.6,2–0,0.8,Granada,0,Estadio Municipal de Anoeta,Carlos del Cerro
+9,Sun,2020-11-08,18:30 (09:30),Levante,1.8,1–1,0.8,Alavés,0,Estadio Ciudad de Valencia,Isidro Díaz de Mera
+9,Sun,2020-11-08,18:30 (09:30),Valladolid,2.3,2–1,2.1,Athletic Club,0,Estadio Municipal José Zorrilla,César Soto
+9,Sun,2020-11-08,21:00 (12:00),Valencia,2.5,4–1,1.5,Real Madrid,0,Estadio de Mestalla,Jesús Gil
+10,Fri,2020-11-20,21:00 (12:00),Osasuna,1.2,1–1,1.0,Huesca,0,Estadio El Sadar,Valentín Pizarro
+10,Sat,2020-11-21,14:00 (05:00),Levante,0.7,1–1,0.7,Elche,0,Estadio Ciudad de Valencia,Jorge Figueroa
+10,Sat,2020-11-21,16:15 (07:15),Villarreal,2.0,1–1,0.6,Real Madrid,0,Estadio de la Cerámica,Alejandro Hernández
+10,Sat,2020-11-21,18:30 (09:30),Sevilla,1.6,4–2,1.6,Celta Vigo,0,Estadio Ramón Sánchez Pizjuán,César Soto
+10,Sat,2020-11-21,21:00 (12:00),Atlético Madrid,0.9,1–0,1.2,Barcelona,0,Estadio Wanda Metropolitano,José Luis Munuera
+10,Sun,2020-11-22,14:00 (05:00),Eibar,1.8,0–0,0.8,Getafe,0,Estadio Municipal de Ipurúa,Pablo González
+10,Sun,2020-11-22,16:15 (07:15),Cádiz,0.1,0–1,1.6,Real Sociedad,0,Estadio Nuevo Mirandilla,Javier Estrada
+10,Sun,2020-11-22,18:30 (09:30),Granada,1.5,1–3,1.4,Valladolid,0,Estadio Nuevo Los Cármenes,David Medié
+10,Sun,2020-11-22,21:00 (12:00),Alavés,1.6,2–2,2.7,Valencia,0,Estadio de Mendizorroza,Santiago Jaime
+10,Mon,2020-11-23,21:00 (12:00),Athletic Club,2.5,4–0,0.4,Betis,0,San Mamés,Alberola Rojas
+11,Fri,2020-11-27,21:00 (12:00),Valladolid,1.3,1–1,1.3,Levante,0,Estadio Municipal José Zorrilla,Valentín Pizarro
+11,Sat,2020-11-28,14:00 (05:00),Elche,0.2,1–1,0.6,Cádiz,0,Estadio Manuel Martínez Valero,Carlos del Cerro
+11,Sat,2020-11-28,16:15 (07:15),Valencia,0.1,0–1,0.8,Atlético Madrid,0,Estadio de Mestalla,Ricardo de Burgos
+11,Sat,2020-11-28,18:30 (09:30),Huesca,0.2,0–1,1.1,Sevilla,0,Estadio El Alcoraz,Guillermo Cuadra
+11,Sat,2020-11-28,21:00 (12:00),Real Madrid,2.3,1–2,2.3,Alavés,0,Estadio Alfredo Di Stéfano,Adrián Cordero
+11,Sun,2020-11-29,14:00 (05:00),Barcelona,3.7,4–0,1.1,Osasuna,0,Camp Nou,Antonio Matéu Lahoz
+11,Sun,2020-11-29,16:15 (07:15),Getafe,0.7,1–1,0.2,Athletic Club,0,Coliseum Alfonso Pérez,Mario Melero
+11,Sun,2020-11-29,18:30 (09:30),Celta Vigo,3.5,3–1,1.1,Granada,0,Estadio de Balaídos,Isidro Díaz de Mera
+11,Sun,2020-11-29,21:00 (12:00),Real Sociedad,1.9,1–1,1.3,Villarreal,0,Estadio Municipal de Anoeta,Jesús Gil
+11,Mon,2020-11-30,21:00 (12:00),Betis,0.6,0–2,2.6,Eibar,0,Estadio Benito Villamarín,Juan Martínez
+12,Fri,2020-12-04,21:00 (12:00),Athletic Club,0.5,0–2,1.0,Celta Vigo,0,San Mamés,Jorge Figueroa
+12,Sat,2020-12-05,14:00 (05:00),Levante,2.3,3–0,0.6,Getafe,0,Estadio Ciudad de Valencia,David Medié
+12,Sat,2020-12-05,16:15 (07:15),Sevilla,0.4,0–1,1.6,Real Madrid,0,Estadio Ramón Sánchez Pizjuán,José Sánchez
+12,Sat,2020-12-05,18:30 (09:30),Atlético Madrid,1.1,2–0,0.6,Valladolid,0,Estadio Wanda Metropolitano,Pablo González
+12,Sat,2020-12-05,21:00 (12:00),Cádiz,2.3,2–1,2.0,Barcelona,0,Estadio Nuevo Mirandilla,César Soto
+12,Sun,2020-12-06,14:00 (05:00),Granada,1.6,3–3,1.5,Huesca,0,Estadio Nuevo Los Cármenes,Alberola Rojas
+12,Sun,2020-12-06,16:15 (07:15),Osasuna,0.7,0–2,1.5,Betis,0,Estadio El Sadar,Alejandro Hernández
+12,Sun,2020-12-06,18:30 (09:30),Villarreal,0.7,0–0,0.1,Elche,0,Estadio de la Cerámica,Santiago Jaime
+12,Sun,2020-12-06,21:00 (12:00),Alavés,0.3,0–0,1.3,Real Sociedad,0,Estadio de Mendizorroza,José Luis Munuera
+12,Mon,2020-12-07,21:00 (12:00),Eibar,1.3,0–0,0.8,Valencia,0,Estadio Municipal de Ipurúa,Javier Estrada
+13,Fri,2020-12-11,21:00 (12:00),Valladolid,1.8,3–2,1.6,Osasuna,0,Estadio Municipal José Zorrilla,Adrián Cordero
+13,Sat,2020-12-12,14:00 (05:00),Valencia,1.6,2–2,1.7,Athletic Club,0,Estadio de Mestalla,Carlos del Cerro
+13,Sat,2020-12-12,16:15 (07:15),Getafe,0.4,0–1,0.5,Sevilla,0,Coliseum Alfonso Pérez,Juan Martínez
+13,Sat,2020-12-12,18:30 (09:30),Huesca,0.5,1–0,0.2,Alavés,0,Estadio El Alcoraz,Mario Melero
+13,Sat,2020-12-12,21:00 (12:00),Real Madrid,0.6,2–0,0.4,Atlético Madrid,0,Estadio Alfredo Di Stéfano,Antonio Matéu Lahoz
+13,Sun,2020-12-13,14:00 (05:00),Real Sociedad,1.2,1–1,1.2,Eibar,0,Estadio Municipal de Anoeta,Isidro Díaz de Mera
+13,Sun,2020-12-13,16:15 (07:15),Betis,0.5,1–1,1.2,Villarreal,0,Estadio Benito Villamarín,Valentín Pizarro
+13,Sun,2020-12-13,18:30 (09:30),Elche,0.5,0–1,1.6,Granada,0,Estadio Manuel Martínez Valero,Pablo González
+13,Sun,2020-12-13,21:00 (12:00),Barcelona,2.2,1–0,0.9,Levante,0,Camp Nou,Ricardo de Burgos
+13,Mon,2020-12-14,21:00 (12:00),Celta Vigo,1.7,4–0,0.8,Cádiz,0,Estadio de Balaídos,Guillermo Cuadra
+19,Tue,2020-12-15,22:00 (13:00),Real Madrid,2.1,3–1,1.2,Athletic Club,0,Estadio Alfredo Di Stéfano,Jesús Gil
+19,Wed,2020-12-16,21:00 (12:00),Barcelona,2.4,2–1,2.2,Real Sociedad,0,Camp Nou,José Sánchez
+14,Fri,2020-12-18,21:00 (12:00),Athletic Club,1.5,2–0,0.2,Huesca,0,San Mamés,Valentín Pizarro
+14,Sat,2020-12-19,14:00 (05:00),Atlético Madrid,1.9,3–1,0.7,Elche,0,Estadio Wanda Metropolitano,Javier Estrada
+14,Sat,2020-12-19,16:15 (07:15),Barcelona,2.4,2–2,1.8,Valencia,0,Camp Nou,Alejandro Hernández
+14,Sat,2020-12-19,18:30 (09:30),Levante,1.3,2–1,1.7,Real Sociedad,0,Estadio Ciudad de Valencia,César Soto
+14,Sat,2020-12-19,18:30 (09:30),Osasuna,1.0,1–3,2.1,Villarreal,0,Estadio El Sadar,Jorge Figueroa
+14,Sat,2020-12-19,21:00 (12:00),Sevilla,1.8,1–1,0.5,Valladolid,0,Estadio Ramón Sánchez Pizjuán,Jesús Gil
+14,Sun,2020-12-20,14:00 (05:00),Celta Vigo,1.6,2–0,0.6,Alavés,0,Estadio de Balaídos,Alberola Rojas
+14,Sun,2020-12-20,16:15 (07:15),Granada,1.2,2–0,0.6,Betis,0,Estadio Nuevo Los Cármenes,José Sánchez
+14,Sun,2020-12-20,18:30 (09:30),Cádiz,0.3,0–2,1.2,Getafe,0,Estadio Nuevo Mirandilla,Santiago Jaime
+14,Sun,2020-12-20,21:00 (12:00),Eibar,0.7,1–3,2.2,Real Madrid,0,Estadio Municipal de Ipurúa,José Luis Munuera
+15,Tue,2020-12-22,17:30 (08:30),Elche,1.5,2–2,2.4,Osasuna,0,Estadio Manuel Martínez Valero,Ricardo de Burgos
+15,Tue,2020-12-22,17:30 (08:30),Valencia,0.9,0–1,1.8,Sevilla,0,Estadio de Mestalla,Valentín Pizarro
+15,Tue,2020-12-22,19:45 (10:45),Real Sociedad,0.2,0–2,0.5,Atlético Madrid,0,Estadio Municipal de Anoeta,Guillermo Cuadra
+15,Tue,2020-12-22,19:45 (10:45),Huesca,1.6,1–1,0.6,Levante,0,Estadio El Alcoraz,Isidro Díaz de Mera
+15,Tue,2020-12-22,22:00 (13:00),Valladolid,0.7,0–3,3.6,Barcelona,0,Estadio Municipal José Zorrilla,Mario Melero
+15,Tue,2020-12-22,22:00 (13:00),Villarreal,1.2,1–1,0.8,Athletic Club,0,Estadio de la Cerámica,David Medié
+15,Wed,2020-12-23,17:30 (08:30),Getafe,0.2,1–1,0.8,Celta Vigo,0,Coliseum Alfonso Pérez,Pablo González
+15,Wed,2020-12-23,19:45 (10:45),Real Madrid,1.3,2–0,0.8,Granada,0,Estadio Alfredo Di Stéfano,Juan Martínez
+15,Wed,2020-12-23,22:00 (13:00),Alavés,2.3,2–1,0.6,Eibar,0,Estadio de Mendizorroza,Carlos del Cerro
+15,Wed,2020-12-23,22:00 (13:00),Betis,0.3,1–0,0.8,Cádiz,0,Estadio Benito Villamarín,Antonio Matéu Lahoz
+16,Tue,2020-12-29,17:00 (08:00),Sevilla,1.9,2–0,0.6,Villarreal,0,Estadio Ramón Sánchez Pizjuán,César Soto
+16,Tue,2020-12-29,19:15 (10:15),Barcelona,2.6,1–1,0.6,Eibar,0,Camp Nou,Alberola Rojas
+16,Tue,2020-12-29,21:30 (12:30),Cádiz,0.9,0–0,0.5,Valladolid,0,Estadio Nuevo Mirandilla,Alejandro Hernández
+16,Tue,2020-12-29,21:30 (12:30),Levante,1.2,4–3,3.0,Betis,0,Estadio Ciudad de Valencia,Javier Estrada
+16,Wed,2020-12-30,17:00 (08:00),Granada,2.3,2–1,1.6,Valencia,0,Estadio Nuevo Los Cármenes,Adrián Cordero
+16,Wed,2020-12-30,19:15 (10:15),Celta Vigo,2.5,2–1,1.1,Huesca,0,Estadio de Balaídos,José Luis Munuera
+16,Wed,2020-12-30,19:15 (10:15),Atlético Madrid,0.7,1–0,0.9,Getafe,0,Estadio Wanda Metropolitano,Antonio Matéu Lahoz
+16,Wed,2020-12-30,21:30 (12:30),Elche,1.0,1–1,1.2,Real Madrid,0,Estadio Manuel Martínez Valero,Jorge Figueroa
+16,Thu,2020-12-31,14:00 (05:00),Athletic Club,0.2,0–1,1.6,Real Sociedad,0,San Mamés,José Sánchez
+16,Thu,2020-12-31,16:15 (07:15),Osasuna,0.4,1–1,1.6,Alavés,0,Estadio El Sadar,Santiago Jaime
+17,Sat,2021-01-02,14:00 (05:00),Villarreal,1.9,2–1,0.5,Levante,0,Estadio de la Cerámica,Pablo González
+17,Sat,2021-01-02,16:15 (07:15),Betis,2.4,1–1,0.5,Sevilla,0,Estadio Benito Villamarín,Carlos del Cerro
+17,Sat,2021-01-02,18:30 (09:30),Getafe,0.6,0–1,1.0,Valladolid,0,Coliseum Alfonso Pérez,Isidro Díaz de Mera
+17,Sat,2021-01-02,21:00 (12:00),Real Madrid,1.2,2–0,0.8,Celta Vigo,0,Estadio Alfredo Di Stéfano,Ricardo de Burgos
+17,Sun,2021-01-03,14:00 (05:00),Athletic Club,1.6,1–0,0.3,Elche,0,San Mamés,Mario Melero
+17,Sun,2021-01-03,16:15 (07:15),Alavés,0.1,1–2,2.0,Atlético Madrid,0,Estadio de Mendizorroza,Juan Martínez
+17,Sun,2021-01-03,18:30 (09:30),Real Sociedad,0.9,1–1,0.6,Osasuna,0,Estadio Municipal de Anoeta,Valentín Pizarro
+17,Sun,2021-01-03,18:30 (09:30),Eibar,1.9,2–0,0.7,Granada,0,Estadio Municipal de Ipurúa,Antonio Matéu Lahoz
+17,Sun,2021-01-03,21:00 (12:00),Huesca,0.3,0–1,2.8,Barcelona,0,Estadio El Alcoraz,Guillermo Cuadra
+17,Mon,2021-01-04,21:00 (12:00),Valencia,1.0,1–1,0.8,Cádiz,0,Estadio de Mestalla,David Medié
+2,Wed,2021-01-06,21:00 (12:00),Athletic Club,0.9,2–3,1.7,Barcelona,0,San Mamés,Carlos del Cerro
+18,Fri,2021-01-08,21:00 (12:00),Celta Vigo,0.3,0–4,2.7,Villarreal,0,Estadio de Balaídos,Javier Estrada
+18,Sat,2021-01-09,14:00 (05:00),Sevilla,2.3,3–2,1.1,Real Sociedad,0,Estadio Ramón Sánchez Pizjuán,Alberola Rojas
+18,Sat,2021-01-09,18:30 (09:30),Granada,0.5,0–4,1.5,Barcelona,0,Estadio Nuevo Los Cármenes,Ricardo de Burgos
+18,Sat,2021-01-09,21:00 (12:00),Osasuna,0.6,0–0,0.3,Real Madrid,0,Estadio El Sadar,César Soto
+18,Sun,2021-01-10,14:00 (05:00),Levante,1.2,2–1,1.5,Eibar,0,Estadio Ciudad de Valencia,Javier Estrada
+18,Sun,2021-01-10,16:15 (07:15),Cádiz,2.6,3–1,0.9,Alavés,0,Estadio Nuevo Mirandilla,José Sánchez
+18,Sun,2021-01-10,21:00 (12:00),Valladolid,0.6,0–1,1.1,Valencia,0,Estadio Municipal José Zorrilla,Guillermo Cuadra
+18,Mon,2021-01-11,19:00 (10:00),Elche,1.2,1–3,2.6,Getafe,0,Estadio Manuel Martínez Valero,José Luis Munuera
+18,Mon,2021-01-11,21:00 (12:00),Huesca,0.8,0–2,2.1,Betis,0,Estadio El Alcoraz,Adrián Cordero
+4,Tue,2021-01-12,19:00 (10:00),Granada,0.8,2–0,0.7,Osasuna,0,Estadio Nuevo Los Cármenes,Pablo González
+1,Tue,2021-01-12,21:30 (12:30),Atlético Madrid,0.4,2–0,1.7,Sevilla,0,Estadio Wanda Metropolitano,Javier Estrada
+19,Tue,2021-01-19,19:00 (10:00),Cádiz,0.5,2–2,1.5,Levante,0,Estadio Nuevo Mirandilla,Carlos del Cerro
+19,Tue,2021-01-19,19:00 (10:00),Valladolid,0.8,2–2,0.7,Elche,0,Estadio Municipal José Zorrilla,Santiago Jaime
+19,Tue,2021-01-19,21:30 (12:30),Alavés,1.4,1–2,0.8,Sevilla,0,Estadio de Mendizorroza,Isidro Díaz de Mera
+19,Wed,2021-01-20,19:00 (10:00),Getafe,0.6,1–0,0.6,Huesca,0,Coliseum Alfonso Pérez,David Medié
+19,Wed,2021-01-20,21:00 (12:00),Betis,0.7,2–1,1.1,Celta Vigo,0,Estadio Benito Villamarín,Juan Martínez
+19,Wed,2021-01-20,21:30 (12:30),Villarreal,2.2,2–2,0.2,Granada,0,Estadio de la Cerámica,Valentín Pizarro
+19,Thu,2021-01-21,19:00 (10:00),Valencia,0.7,1–1,1.2,Osasuna,0,Estadio de Mestalla,Alejandro Hernández
+19,Thu,2021-01-21,21:30 (12:30),Eibar,1.6,1–2,1.3,Atlético Madrid,0,Estadio Municipal de Ipurúa,Mario Melero
+20,Fri,2021-01-22,21:00 (12:00),Levante,1.0,2–2,0.7,Valladolid,0,Estadio Ciudad de Valencia,José Luis Munuera
+20,Sat,2021-01-23,14:00 (05:00),Huesca,0.1,0–0,0.5,Villarreal,0,Estadio El Alcoraz,Alberola Rojas
+20,Sat,2021-01-23,16:15 (07:15),Sevilla,2.1,3–0,0.8,Cádiz,0,Estadio Ramón Sánchez Pizjuán,Guillermo Cuadra
+20,Sat,2021-01-23,18:30 (09:30),Real Sociedad,2.2,2–2,0.6,Betis,0,Estadio Municipal de Anoeta,César Soto
+20,Sat,2021-01-23,21:00 (12:00),Alavés,0.7,1–4,1.9,Real Madrid,0,Estadio de Mendizorroza,Alejandro Hernández
+20,Sun,2021-01-24,14:00 (05:00),Osasuna,1.4,3–1,0.8,Granada,0,Estadio El Sadar,Javier Estrada
+20,Sun,2021-01-24,16:15 (07:15),Elche,0.8,0–2,1.9,Barcelona,0,Estadio Manuel Martínez Valero,Valentín Pizarro
+20,Sun,2021-01-24,18:30 (09:30),Celta Vigo,1.1,1–1,0.7,Eibar,0,Estadio de Balaídos,Pablo González
+20,Sun,2021-01-24,21:00 (12:00),Atlético Madrid,1.8,3–1,0.4,Valencia,0,Estadio Wanda Metropolitano,Ricardo de Burgos
+20,Mon,2021-01-25,21:00 (12:00),Athletic Club,1.7,5–1,1.1,Getafe,0,San Mamés,Adrián Cordero
+21,Fri,2021-01-29,21:00 (12:00),Valladolid,1.4,1–3,1.0,Huesca,0,Estadio Municipal José Zorrilla,Ricardo de Burgos
+21,Sat,2021-01-30,14:00 (05:00),Eibar,0.7,0–2,1.4,Sevilla,0,Estadio Municipal de Ipurúa,José Sánchez
+21,Sat,2021-01-30,16:15 (07:15),Real Madrid,1.3,1–2,1.9,Levante,0,Estadio Alfredo Di Stéfano,David Medié
+21,Sat,2021-01-30,18:30 (09:30),Valencia,2.4,1–0,0.8,Elche,0,Estadio de Mestalla,Pablo González
+21,Sat,2021-01-30,21:00 (12:00),Villarreal,0.2,1–1,1.1,Real Sociedad,0,Estadio de la Cerámica,Isidro Díaz de Mera
+21,Sun,2021-01-31,14:00 (05:00),Getafe,0.3,0–0,0.3,Alavés,0,Coliseum Alfonso Pérez,Santiago Jaime
+21,Sun,2021-01-31,16:15 (07:15),Cádiz,0.9,2–4,2.2,Atlético Madrid,0,Estadio Nuevo Mirandilla,Jesús Gil
+21,Sun,2021-01-31,18:30 (09:30),Granada,0.3,0–0,0.3,Celta Vigo,0,Estadio Nuevo Los Cármenes,Carlos del Cerro
+21,Sun,2021-01-31,21:00 (12:00),Barcelona,1.9,2–1,0.3,Athletic Club,0,Camp Nou,Antonio Matéu Lahoz
+21,Mon,2021-02-01,21:00 (12:00),Betis,1.4,1–0,1.4,Osasuna,0,Estadio Benito Villamarín,Alberola Rojas
+22,Fri,2021-02-05,21:00 (12:00),Alavés,1.5,1–0,0.1,Valladolid,0,Estadio de Mendizorroza,César Soto
+22,Sat,2021-02-06,14:00 (05:00),Levante,1.9,2–2,1.1,Granada,0,Estadio Ciudad de Valencia,Adrián Cordero
+22,Sat,2021-02-06,16:15 (07:15),Huesca,1.0,1–2,2.7,Real Madrid,0,Estadio El Alcoraz,Javier Estrada
+22,Sat,2021-02-06,18:30 (09:30),Elche,1.2,2–2,1.8,Villarreal,0,Estadio Manuel Martínez Valero,Mario Melero
+22,Sat,2021-02-06,21:00 (12:00),Sevilla,2.7,3–0,0.2,Getafe,0,Estadio Ramón Sánchez Pizjuán,Juan Martínez
+22,Sun,2021-02-07,14:00 (05:00),Real Sociedad,4.3,4–1,0.5,Cádiz,0,Estadio Municipal de Anoeta,Valentín Pizarro
+22,Sun,2021-02-07,16:15 (07:15),Athletic Club,1.3,1–1,0.9,Valencia,0,San Mamés,José Luis Munuera
+22,Sun,2021-02-07,18:30 (09:30),Osasuna,1.7,2–1,1.0,Eibar,0,Estadio El Sadar,Jorge Figueroa
+22,Sun,2021-02-07,21:00 (12:00),Betis,1.6,2–3,1.1,Barcelona,0,Estadio Benito Villamarín,Carlos del Cerro
+22,Mon,2021-02-08,21:00 (12:00),Atlético Madrid,0.8,2–2,1.5,Celta Vigo,0,Estadio Wanda Metropolitano,Guillermo Cuadra
+1,Tue,2021-02-09,21:00 (12:00),Real Madrid,1.3,2–0,0.1,Getafe,0,Estadio Alfredo Di Stéfano,Alberola Rojas
+23,Fri,2021-02-12,21:00 (12:00),Celta Vigo,1.4,3–1,1.1,Elche,0,Estadio de Balaídos,Ricardo de Burgos
+23,Sat,2021-02-13,14:00 (05:00),Granada,0.7,1–2,0.7,Atlético Madrid,0,Estadio Nuevo Los Cármenes,Antonio Matéu Lahoz
+23,Sat,2021-02-13,16:15 (07:15),Sevilla,1.2,1–0,0.9,Huesca,0,Estadio Ramón Sánchez Pizjuán,David Medié
+23,Sat,2021-02-13,18:30 (09:30),Eibar,1.4,1–1,1.0,Valladolid,0,Estadio Municipal de Ipurúa,Isidro Díaz de Mera
+23,Sat,2021-02-13,21:00 (12:00),Barcelona,3.2,5–1,0.6,Alavés,0,Camp Nou,Jorge Figueroa
+23,Sun,2021-02-14,14:00 (05:00),Getafe,0.2,0–1,1.0,Real Sociedad,0,Coliseum Alfonso Pérez,Pablo González
+23,Sun,2021-02-14,16:15 (07:15),Real Madrid,1.0,2–0,0.1,Valencia,0,Estadio Alfredo Di Stéfano,José Sánchez
+23,Sun,2021-02-14,18:30 (09:30),Levante,2.1,0–1,0.6,Osasuna,0,Estadio Ciudad de Valencia,Santiago Jaime
+23,Sun,2021-02-14,21:00 (12:00),Villarreal,1.2,1–2,0.9,Betis,0,Estadio de la Cerámica,Jesús Gil
+23,Mon,2021-02-15,21:00 (12:00),Cádiz,0.6,0–4,1.9,Athletic Club,0,Estadio Nuevo Mirandilla,Alejandro Hernández
+2,Wed,2021-02-17,19:00 (10:00),Levante,0.5,1–1,1.2,Atlético Madrid,0,Estadio Ciudad de Valencia,José Luis Munuera
+24,Fri,2021-02-19,21:00 (12:00),Betis,2.4,1–0,0.3,Getafe,0,Estadio Benito Villamarín,Javier Estrada
+24,Sat,2021-02-20,14:00 (05:00),Elche,0.5,1–0,1.3,Eibar,0,Estadio Manuel Martínez Valero,Adrián Cordero
+24,Sat,2021-02-20,16:15 (07:15),Atlético Madrid,1.7,0–2,0.9,Levante,0,Estadio Wanda Metropolitano,Mario Melero
+24,Sat,2021-02-20,18:30 (09:30),Valencia,1.3,2–0,0.5,Celta Vigo,0,Estadio de Mestalla,Valentín Pizarro
+24,Sat,2021-02-20,21:00 (12:00),Valladolid,0.9,0–1,0.5,Real Madrid,0,Estadio Municipal José Zorrilla,Guillermo Cuadra
+24,Sun,2021-02-21,14:00 (05:00),Barcelona,2.5,1–1,1.2,Cádiz,0,Camp Nou,Juan Martínez
+24,Sun,2021-02-21,16:15 (07:15),Real Sociedad,2.1,4–0,0.5,Alavés,0,Estadio Municipal de Anoeta,José Luis Munuera
+24,Sun,2021-02-21,18:30 (09:30),Huesca,2.1,3–2,0.9,Granada,0,Estadio El Alcoraz,César Soto
+24,Sun,2021-02-21,21:00 (12:00),Athletic Club,2.0,1–1,0.1,Villarreal,0,San Mamés,Carlos del Cerro
+24,Mon,2021-02-22,21:00 (12:00),Osasuna,0.3,0–2,0.7,Sevilla,0,Estadio El Sadar,Alberola Rojas
+1,Wed,2021-02-24,19:00 (10:00),Barcelona,2.5,3–0,0.6,Elche,0,Camp Nou,Isidro Díaz de Mera
+25,Fri,2021-02-26,21:00 (12:00),Levante,1.0,1–1,1.8,Athletic Club,0,Estadio Ciudad de Valencia,Isidro Díaz de Mera
+25,Sat,2021-02-27,14:00 (05:00),Eibar,1.7,1–1,0.5,Huesca,0,Estadio Municipal de Ipurúa,Pablo González
+25,Sat,2021-02-27,16:15 (07:15),Sevilla,0.1,0–2,2.0,Barcelona,0,Estadio Ramón Sánchez Pizjuán,Alejandro Hernández
+25,Sat,2021-02-27,18:30 (09:30),Alavés,0.3,0–1,1.0,Osasuna,0,Estadio de Mendizorroza,José Sánchez
+25,Sat,2021-02-27,21:00 (12:00),Getafe,1.3,3–0,0.2,Valencia,0,Coliseum Alfonso Pérez,Jorge Figueroa
+25,Sun,2021-02-28,14:00 (05:00),Celta Vigo,0.7,1–1,1.1,Valladolid,0,Estadio de Balaídos,David Medié
+25,Sun,2021-02-28,16:15 (07:15),Cádiz,0.2,0–1,0.4,Betis,0,Estadio Nuevo Mirandilla,Antonio Matéu Lahoz
+25,Sun,2021-02-28,18:30 (09:30),Granada,1.0,2–1,0.8,Elche,0,Estadio Nuevo Los Cármenes,Santiago Jaime
+25,Sun,2021-02-28,21:00 (12:00),Villarreal,1.3,0–2,0.5,Atlético Madrid,0,Estadio de la Cerámica,Ricardo de Burgos
+25,Mon,2021-03-01,21:00 (12:00),Real Madrid,1.7,1–1,0.5,Real Sociedad,0,Estadio Alfredo Di Stéfano,Jesús Gil
+26,Fri,2021-03-05,21:00 (12:00),Valencia,2.1,2–1,2.1,Villarreal,0,Estadio de Mestalla,Javier Estrada
+26,Sat,2021-03-06,14:00 (05:00),Valladolid,0.9,2–1,0.6,Getafe,0,Estadio Municipal José Zorrilla,Mario Melero
+26,Sat,2021-03-06,16:15 (07:15),Elche,0.6,2–1,0.9,Sevilla,0,Estadio Manuel Martínez Valero,Valentín Pizarro
+26,Sat,2021-03-06,18:30 (09:30),Cádiz,1.1,1–0,1.7,Eibar,0,Estadio Nuevo Mirandilla,Carlos del Cerro
+26,Sat,2021-03-06,21:00 (12:00),Osasuna,1.2,0–2,1.2,Barcelona,0,Estadio El Sadar,Guillermo Cuadra
+26,Sun,2021-03-07,14:00 (05:00),Huesca,1.9,3–4,0.9,Celta Vigo,0,Estadio El Alcoraz,José Luis Munuera
+26,Sun,2021-03-07,16:15 (07:15),Atlético Madrid,1.1,1–1,2.2,Real Madrid,0,Estadio Wanda Metropolitano,Alejandro Hernández
+26,Sun,2021-03-07,18:30 (09:30),Real Sociedad,4.3,1–0,0.2,Levante,0,Estadio Municipal de Anoeta,César Soto
+26,Sun,2021-03-07,21:00 (12:00),Athletic Club,1.2,2–1,1.5,Granada,0,San Mamés,Juan Martínez
+26,Mon,2021-03-08,21:00 (12:00),Betis,2.0,3–2,0.4,Alavés,0,Estadio Benito Villamarín,Alberola Rojas
+18,Wed,2021-03-10,19:00 (10:00),Atlético Madrid,1.5,2–1,0.6,Athletic Club,0,Estadio Wanda Metropolitano,Jesús Gil
+27,Fri,2021-03-12,21:00 (12:00),Levante,0.9,1–0,0.8,Valencia,0,Estadio Ciudad de Valencia,Guillermo Cuadra
+27,Sat,2021-03-13,14:00 (05:00),Alavés,1.3,1–1,1.7,Cádiz,0,Estadio de Mendizorroza,Isidro Díaz de Mera
+27,Sat,2021-03-13,16:15 (07:15),Real Madrid,1.8,2–1,0.5,Elche,0,Estadio Alfredo Di Stéfano,Jorge Figueroa
+27,Sat,2021-03-13,18:30 (09:30),Osasuna,0.8,0–0,1.5,Valladolid,0,Estadio El Sadar,Ricardo de Burgos
+27,Sat,2021-03-13,21:00 (12:00),Getafe,0.3,0–0,1.8,Atlético Madrid,0,Coliseum Alfonso Pérez,José Sánchez
+27,Sun,2021-03-14,14:00 (06:00),Celta Vigo,0.6,0–0,0.7,Athletic Club,0,Estadio de Balaídos,Santiago Jaime
+27,Sun,2021-03-14,16:15 (08:15),Granada,0.4,1–0,0.3,Real Sociedad,0,Estadio Nuevo Los Cármenes,Pablo González
+27,Sun,2021-03-14,18:30 (10:30),Eibar,1.9,1–3,3.1,Villarreal,0,Estadio Municipal de Ipurúa,David Medié
+27,Sun,2021-03-14,21:00 (13:00),Sevilla,0.7,1–0,0.6,Betis,0,Estadio Ramón Sánchez Pizjuán,Antonio Matéu Lahoz
+27,Mon,2021-03-15,21:00 (13:00),Barcelona,1.6,4–1,2.1,Huesca,0,Camp Nou,Adrián Cordero
+2,Wed,2021-03-17,19:00 (11:00),Sevilla,1.4,2–0,0.6,Elche,0,Estadio Ramón Sánchez Pizjuán,Alberola Rojas
+28,Fri,2021-03-19,21:00 (13:00),Betis,2.4,2–0,0.5,Levante,0,Estadio Benito Villamarín,Jesús Gil
+28,Sat,2021-03-20,14:00 (06:00),Athletic Club,1.8,1–1,0.6,Eibar,0,San Mamés,Valentín Pizarro
+28,Sat,2021-03-20,16:15 (08:15),Celta Vigo,0.7,1–3,2.7,Real Madrid,0,Estadio de Balaídos,Mario Melero
+28,Sat,2021-03-20,18:30 (10:30),Huesca,0.9,0–0,0.4,Osasuna,0,Estadio El Alcoraz,Carlos del Cerro
+28,Sat,2021-03-20,21:00 (13:00),Valladolid,0.9,1–1,1.4,Sevilla,0,Estadio Municipal José Zorrilla,Javier Estrada
+28,Sun,2021-03-21,14:00 (06:00),Getafe,1.6,1–1,1.5,Elche,0,Coliseum Alfonso Pérez,Alejandro Hernández
+28,Sun,2021-03-21,16:15 (08:15),Valencia,1.8,2–1,0.9,Granada,0,Estadio de Mestalla,Alberola Rojas
+28,Sun,2021-03-21,16:15 (08:15),Villarreal,2.5,2–1,1.0,Cádiz,0,Estadio de la Cerámica,César Soto
+28,Sun,2021-03-21,18:30 (10:30),Atlético Madrid,0.6,1–0,1.2,Alavés,0,Estadio Wanda Metropolitano,Juan Martínez
+28,Sun,2021-03-21,21:00 (13:00),Real Sociedad,0.8,1–6,2.9,Barcelona,0,Estadio Municipal de Anoeta,José Luis Munuera
+29,Fri,2021-04-02,21:00 (12:00),Levante,0.5,0–2,0.8,Huesca,0,Estadio Ciudad de Valencia,Jorge Figueroa
+29,Sat,2021-04-03,14:00 (05:00),Granada,1.8,0–3,2.8,Villarreal,0,Estadio Nuevo Los Cármenes,Guillermo Cuadra
+29,Sat,2021-04-03,16:15 (07:15),Real Madrid,2.4,2–0,0.4,Eibar,0,Estadio Alfredo Di Stéfano,Isidro Díaz de Mera
+29,Sat,2021-04-03,18:30 (09:30),Osasuna,0.4,0–0,0.5,Getafe,0,Estadio El Sadar,Pablo González
+29,Sun,2021-04-04,14:00 (05:00),Alavés,1.8,1–3,2.1,Celta Vigo,0,Estadio de Mendizorroza,Antonio Matéu Lahoz
+29,Sun,2021-04-04,16:15 (07:15),Elche,0.8,1–1,1.8,Betis,0,Estadio Manuel Martínez Valero,Adrián Cordero
+29,Sun,2021-04-04,18:30 (09:30),Cádiz,0.4,2–1,1.0,Valencia,0,Estadio Nuevo Mirandilla,David Medié
+29,Sun,2021-04-04,21:00 (12:00),Sevilla,1.7,1–0,0.9,Atlético Madrid,0,Estadio Ramón Sánchez Pizjuán,Jesús Gil
+29,Mon,2021-04-05,21:00 (12:00),Barcelona,1.9,1–0,0.3,Valladolid,0,Camp Nou,Santiago Jaime
+29,Wed,2021-04-07,21:00 (12:00),Real Sociedad,1.0,1–1,0.8,Athletic Club,0,Estadio Municipal de Anoeta,José Sánchez
+30,Fri,2021-04-09,21:00 (12:00),Huesca,1.2,3–1,0.6,Elche,0,Estadio El Alcoraz,Alberola Rojas
+30,Sat,2021-04-10,14:00 (05:00),Getafe,2.5,0–1,0.5,Cádiz,0,Coliseum Alfonso Pérez,Ricardo de Burgos
+30,Sat,2021-04-10,16:15 (07:15),Athletic Club,1.9,0–0,0.5,Alavés,0,San Mamés,Mario Melero
+30,Sat,2021-04-10,18:30 (09:30),Eibar,0.4,0–1,0.4,Levante,0,Estadio Municipal de Ipurúa,Javier Estrada
+30,Sat,2021-04-10,21:00 (12:00),Real Madrid,1.6,2–1,1.6,Barcelona,0,Estadio Alfredo Di Stéfano,Jesús Gil
+30,Sun,2021-04-11,14:00 (05:00),Villarreal,1.9,1–2,1.2,Osasuna,0,Estadio de la Cerámica,José Luis Munuera
+30,Sun,2021-04-11,16:15 (07:15),Valencia,2.1,2–2,1.1,Real Sociedad,0,Estadio de Mestalla,Valentín Pizarro
+30,Sun,2021-04-11,18:30 (09:30),Valladolid,1.1,1–2,1.1,Granada,0,Estadio Municipal José Zorrilla,Carlos del Cerro
+30,Sun,2021-04-11,21:00 (12:00),Betis,0.7,1–1,1.4,Atlético Madrid,0,Estadio Benito Villamarín,Guillermo Cuadra
+30,Mon,2021-04-12,21:00 (12:00),Celta Vigo,2.1,3–4,1.4,Sevilla,0,Estadio de Balaídos,Alejandro Hernández
+33,Sun,2021-04-18,14:00 (05:00),Real Sociedad,0.3,1–2,3.1,Sevilla,0,Estadio Municipal de Anoeta,Santiago Jaime
+33,Sun,2021-04-18,14:00 (05:00),Osasuna,0.8,2–0,0.7,Elche,0,Estadio El Sadar,Jorge Figueroa
+33,Sun,2021-04-18,16:15 (07:15),Alavés,0.5,1–0,0.5,Huesca,0,Estadio de Mendizorroza,Alejandro Hernández
+33,Sun,2021-04-18,16:15 (07:15),Atlético Madrid,2.3,5–0,0.0,Eibar,0,Estadio Wanda Metropolitano,César Soto
+33,Sun,2021-04-18,18:30 (09:30),Cádiz,0.5,0–0,0.5,Celta Vigo,0,Estadio Nuevo Mirandilla,Pablo González
+33,Sun,2021-04-18,18:30 (09:30),Betis,0.7,2–2,1.5,Valencia,0,Estadio Benito Villamarín,Alberola Rojas
+33,Sun,2021-04-18,21:00 (12:00),Levante,1.4,1–5,2.1,Villarreal,0,Estadio Ciudad de Valencia,Ricardo de Burgos
+33,Sun,2021-04-18,21:00 (12:00),Getafe,1.5,0–0,0.6,Real Madrid,0,Coliseum Alfonso Pérez,José Sánchez
+31,Wed,2021-04-21,19:00 (10:00),Osasuna,3.6,3–1,0.9,Valencia,0,Estadio El Sadar,Mario Melero
+31,Wed,2021-04-21,19:00 (10:00),Levante,0.3,0–1,1.6,Sevilla,0,Estadio Ciudad de Valencia,Valentín Pizarro
+31,Wed,2021-04-21,20:00 (11:00),Betis,0.2,0–0,1.0,Athletic Club,0,Estadio Benito Villamarín,David Medié
+31,Wed,2021-04-21,21:00 (12:00),Alavés,1.6,2–1,1.8,Villarreal,0,Estadio de Mendizorroza,Adrián Cordero
+31,Wed,2021-04-21,21:00 (12:00),Elche,1.2,1–1,1.0,Valladolid,0,Estadio Manuel Martínez Valero,José Sánchez
+31,Wed,2021-04-21,22:00 (13:00),Cádiz,0.9,0–3,3.1,Real Madrid,0,Estadio Nuevo Mirandilla,Antonio Matéu Lahoz
+31,Thu,2021-04-22,19:00 (10:00),Atlético Madrid,2.0,2–0,0.8,Huesca,0,Estadio Wanda Metropolitano,José Luis Munuera
+31,Thu,2021-04-22,21:00 (12:00),Granada,1.7,4–1,1.8,Eibar,0,Estadio Nuevo Los Cármenes,Santiago Jaime
+31,Thu,2021-04-22,21:00 (12:00),Real Sociedad,2.1,2–1,0.6,Celta Vigo,0,Estadio Municipal de Anoeta,Jesús Gil
+31,Thu,2021-04-22,22:00 (13:00),Barcelona,1.8,5–2,1.3,Getafe,0,Camp Nou,Jorge Figueroa
+32,Sat,2021-04-24,14:00 (05:00),Elche,0.6,1–0,0.4,Levante,0,Estadio Manuel Martínez Valero,David Medié
+32,Sat,2021-04-24,16:15 (07:15),Valladolid,1.8,1–1,1.0,Cádiz,0,Estadio Municipal José Zorrilla,Alberola Rojas
+32,Sat,2021-04-24,18:30 (09:30),Valencia,1.0,1–1,1.2,Alavés,0,Estadio de Mestalla,Guillermo Cuadra
+32,Sat,2021-04-24,21:00 (12:00),Real Madrid,1.2,0–0,0.6,Betis,0,Estadio Alfredo Di Stéfano,Javier Estrada
+32,Sun,2021-04-25,14:00 (05:00),Huesca,0.8,0–2,1.2,Getafe,0,Estadio El Alcoraz,Juan Martínez
+32,Sun,2021-04-25,16:15 (07:15),Villarreal,1.1,1–2,3.3,Barcelona,0,Estadio de la Cerámica,Carlos del Cerro
+32,Sun,2021-04-25,18:30 (09:30),Sevilla,1.4,2–1,1.0,Granada,0,Estadio Ramón Sánchez Pizjuán,Ricardo de Burgos
+32,Sun,2021-04-25,18:30 (09:30),Celta Vigo,0.9,2–1,1.7,Osasuna,0,Estadio de Balaídos,César Soto
+32,Sun,2021-04-25,21:00 (12:00),Athletic Club,1.2,2–1,0.9,Atlético Madrid,0,San Mamés,Pablo González
+32,Mon,2021-04-26,21:00 (12:00),Eibar,1.1,0–1,0.9,Real Sociedad,0,Estadio Municipal de Ipurúa,Jorge Figueroa
+33,Wed,2021-04-28,19:00 (10:00),Athletic Club,2.0,2–2,0.8,Valladolid,0,San Mamés,Adrián Cordero
+33,Thu,2021-04-29,19:00 (10:00),Barcelona,1.3,1–2,0.5,Granada,0,Camp Nou,Pablo González
+34,Fri,2021-04-30,21:00 (12:00),Celta Vigo,2.4,2–0,1.2,Levante,0,Estadio de Balaídos,Santiago Jaime
+34,Sat,2021-05-01,14:00 (05:00),Eibar,1.2,3–0,0.2,Alavés,0,Estadio Municipal de Ipurúa,José Luis Munuera
+34,Sat,2021-05-01,16:15 (07:15),Elche,1.0,0–1,0.9,Atlético Madrid,0,Estadio Manuel Martínez Valero,Mario Melero
+34,Sat,2021-05-01,18:30 (09:30),Huesca,0.5,1–0,0.3,Real Sociedad,0,Estadio El Alcoraz,Antonio Matéu Lahoz
+34,Sat,2021-05-01,21:00 (12:00),Real Madrid,1.9,2–0,0.1,Osasuna,0,Estadio Alfredo Di Stéfano,Guillermo Cuadra
+34,Sun,2021-05-02,14:00 (05:00),Valladolid,0.6,1–1,1.5,Betis,0,Estadio Municipal José Zorrilla,Valentín Pizarro
+34,Sun,2021-05-02,16:15 (07:15),Villarreal,0.2,1–0,0.6,Getafe,0,Estadio de la Cerámica,Javier Estrada
+34,Sun,2021-05-02,18:30 (09:30),Granada,0.9,0–1,1.4,Cádiz,0,Estadio Nuevo Los Cármenes,Isidro Díaz de Mera
+34,Sun,2021-05-02,21:00 (12:00),Valencia,1.2,2–3,2.6,Barcelona,0,Estadio de Mestalla,José Sánchez
+34,Mon,2021-05-03,21:00 (12:00),Sevilla,1.5,0–1,0.8,Athletic Club,0,Estadio Ramón Sánchez Pizjuán,Jesús Gil
+35,Fri,2021-05-07,21:00 (12:00),Real Sociedad,2.4,2–0,0.1,Elche,0,Estadio Municipal de Anoeta,Adrián Cordero
+35,Sat,2021-05-08,14:00 (05:00),Alavés,1.6,2–2,0.9,Levante,0,Estadio de Mendizorroza,Carlos del Cerro
+35,Sat,2021-05-08,16:15 (07:15),Barcelona,0.9,0–0,0.6,Atlético Madrid,0,Camp Nou,Antonio Matéu Lahoz
+35,Sat,2021-05-08,18:30 (09:30),Cádiz,1.1,2–1,0.8,Huesca,0,Estadio Nuevo Mirandilla,Alejandro Hernández
+35,Sat,2021-05-08,21:00 (12:00),Athletic Club,1.5,2–2,0.9,Osasuna,0,San Mamés,Valentín Pizarro
+35,Sun,2021-05-09,14:00 (05:00),Getafe,0.6,0–1,1.1,Eibar,0,Coliseum Alfonso Pérez,Alberola Rojas
+35,Sun,2021-05-09,16:15 (07:15),Valencia,1.7,3–0,1.1,Valladolid,0,Estadio de Mestalla,Jesús Gil
+35,Sun,2021-05-09,18:30 (09:30),Villarreal,3.1,2–4,2.3,Celta Vigo,0,Estadio de la Cerámica,David Medié
+35,Sun,2021-05-09,21:00 (12:00),Real Madrid,1.0,2–2,1.2,Sevilla,0,Estadio Alfredo Di Stéfano,Juan Martínez
+35,Mon,2021-05-10,21:00 (12:00),Betis,1.1,2–1,1.5,Granada,0,Estadio Benito Villamarín,César Soto
+36,Tue,2021-05-11,19:00 (10:00),Osasuna,1.8,3–2,1.5,Cádiz,0,Estadio El Sadar,Santiago Jaime
+36,Tue,2021-05-11,20:00 (11:00),Elche,0.6,0–2,1.8,Alavés,0,Estadio Manuel Martínez Valero,Pablo González
+36,Tue,2021-05-11,22:00 (13:00),Levante,0.9,3–3,2.8,Barcelona,0,Estadio Ciudad de Valencia,José Luis Munuera
+36,Wed,2021-05-12,19:00 (10:00),Sevilla,1.3,1–0,0.5,Valencia,0,Estadio Ramón Sánchez Pizjuán,Javier Estrada
+36,Wed,2021-05-12,20:00 (11:00),Huesca,1.3,1–0,0.3,Athletic Club,0,Estadio El Alcoraz,Jorge Figueroa
+36,Wed,2021-05-12,20:00 (11:00),Celta Vigo,0.4,1–0,1.3,Getafe,0,Estadio de Balaídos,Mario Melero
+36,Wed,2021-05-12,22:00 (13:00),Atlético Madrid,1.7,2–1,1.6,Real Sociedad,0,Estadio Wanda Metropolitano,Guillermo Cuadra
+36,Thu,2021-05-13,19:00 (10:00),Valladolid,1.0,0–2,0.7,Villarreal,0,Estadio Municipal José Zorrilla,Ricardo de Burgos
+36,Thu,2021-05-13,20:00 (11:00),Eibar,0.9,1–1,0.5,Betis,0,Estadio Municipal de Ipurúa,Isidro Díaz de Mera
+36,Thu,2021-05-13,22:00 (13:00),Granada,2.0,1–4,1.9,Real Madrid,0,Estadio Nuevo Los Cármenes,Jesús Gil
+37,Sun,2021-05-16,18:30 (09:30),Real Sociedad,1.7,4–1,1.7,Valladolid,0,Estadio Municipal de Anoeta,Carlos del Cerro
+37,Sun,2021-05-16,18:30 (09:30),Barcelona,1.8,1–2,0.8,Celta Vigo,0,Camp Nou,Ricardo de Burgos
+37,Sun,2021-05-16,18:30 (09:30),Alavés,2.9,4–2,0.6,Granada,0,Estadio de Mendizorroza,José Sánchez
+37,Sun,2021-05-16,18:30 (09:30),Betis,1.4,1–0,0.4,Huesca,0,Estadio Benito Villamarín,Pablo González
+37,Sun,2021-05-16,18:30 (09:30),Atlético Madrid,3.2,2–1,0.3,Osasuna,0,Estadio Wanda Metropolitano,Juan Martínez
+37,Sun,2021-05-16,18:30 (09:30),Athletic Club,0.4,0–1,1.3,Real Madrid,0,San Mamés,Antonio Matéu Lahoz
+37,Sun,2021-05-16,18:30 (09:30),Villarreal,1.5,4–0,1.7,Sevilla,4800,Estadio de la Cerámica,Guillermo Cuadra
+37,Sun,2021-05-16,18:30 (09:30),Cádiz,1.1,1–3,2.3,Elche,0,Estadio Nuevo Mirandilla,César Soto
+37,Sun,2021-05-16,18:30 (09:30),Valencia,1.2,4–1,2.2,Eibar,2689,Estadio de Mestalla,Valentín Pizarro
+37,Sun,2021-05-16,18:30 (09:30),Getafe,0.5,2–1,0.2,Levante,0,Coliseum Alfonso Pérez,Adrián Cordero
+38,Fri,2021-05-21,21:00 (12:00),Levante,1.5,2–2,0.5,Cádiz,0,Estadio Ciudad de Valencia,Javier Estrada
+38,Sat,2021-05-22,18:00 (09:00),Osasuna,0.4,0–1,2.3,Real Sociedad,0,Estadio El Sadar,Jorge Figueroa
+38,Sat,2021-05-22,18:00 (09:00),Huesca,1.0,0–0,0.4,Valencia,0,Estadio El Alcoraz,Guillermo Cuadra
+38,Sat,2021-05-22,18:00 (09:00),Eibar,1.2,0–1,0.3,Barcelona,0,Estadio Municipal de Ipurúa,Santiago Jaime
+38,Sat,2021-05-22,18:00 (09:00),Real Madrid,0.9,2–1,0.7,Villarreal,0,Estadio Alfredo Di Stéfano,José Luis Munuera
+38,Sat,2021-05-22,18:00 (09:00),Valladolid,0.9,1–2,1.9,Atlético Madrid,0,Estadio Municipal José Zorrilla,José Sánchez
+38,Sat,2021-05-22,18:00 (09:00),Celta Vigo,1.3,2–3,2.0,Betis,1738,Estadio de Balaídos,Jesús Gil
+38,Sat,2021-05-22,18:00 (09:00),Elche,1.2,2–0,0.6,Athletic Club,3518,Estadio Manuel Martínez Valero,Carlos del Cerro
+38,Sun,2021-05-23,18:30 (09:30),Granada,0.8,0–0,0.4,Getafe,0,Estadio Nuevo Los Cármenes,David Medié
+38,Sun,2021-05-23,21:00 (12:00),Sevilla,0.6,1–0,1.2,Alavés,0,Estadio Ramón Sánchez Pizjuán,Isidro Díaz de Mera
